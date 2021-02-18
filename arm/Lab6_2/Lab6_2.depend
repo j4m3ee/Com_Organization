@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1613012077 source:/home/pi/arm/Lab6/Lab6_2.s
+
+1613013006 source:/home/pi/arm/Lab6_2/main.c
+	<stdio.h>
+	<stdlib.h>
+
