@@ -10,5 +10,7 @@ Lab7_5:
 	gcc -o Lab7_5 Lab7_5.s
 Lab7_6:
 	gcc -o Lab7_6 Lab7_6.s
+Lab7_7:
+	gcc -o Lab7_7 Lab7_7.s
 clean:
 	rm Lab7_1
