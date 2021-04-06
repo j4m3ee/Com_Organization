@@ -35,9 +35,8 @@ int main(void)
             for (l=0;l<3;l++){
                 digitalWrite(pin[l],1);
             }
-            delay(100);
+            delay(1000);
         }
     }
-
     return 0;
 }
